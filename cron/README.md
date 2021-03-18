@@ -2,7 +2,7 @@ Useful Cron Commands
 
 Running my autoupload notes zettelkasten in my Obsidian repo
 ```
-*/30 * * * * /Users/mark/.local/bin/zksync >/dev/null 2>&1
+*/30 * * * * /Users/mark/.local/bin/zk_sync >/dev/null 2>&1
 ```
 
 Alternatively as a solution I found on SO 
